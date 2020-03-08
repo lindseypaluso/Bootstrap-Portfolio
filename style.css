@@ -1,0 +1,22 @@
+body {
+  font-family:'Lato';
+  
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    display: inline-block;
+    background-color: #4aaaa5;
+    margin: 0px;
+  }
+
+h2 {
+    color:  #4aaaa5;
+    text-align: center;
+    display: inline-block;
+  }
+
+.bg-custom {
+  background-color: #cccccc;
+}
